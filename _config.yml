@@ -2,8 +2,8 @@
 title: Reveal Your Ignorance
 email: mather314@gmail.com
 description: ""
-baseurl: ""
-url: "http://mather.github.io/blog"
+baseurl: "/blog"
+url: "http://mather.github.io"
 
 # Build settings
 markdown: redcarpet
