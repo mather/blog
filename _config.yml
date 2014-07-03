@@ -1,9 +1,11 @@
 # Site settings
 title: Reveal Your Ignorance
 email: mather314@gmail.com
+username: mather
 description: ""
 baseurl: "/blog"
 url: "http://mather.github.io"
+twitter: mather314
 
 # Build settings
 markdown: redcarpet
