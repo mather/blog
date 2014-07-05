@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "型クラスってなんだろう"
-date:   2014-07-03 19:35:00
+date:   2014-07-05 18:54:00
 categories: [Java,Scala,Haskell]
 ---
 
